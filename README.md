@@ -1,5 +1,6 @@
 ConceptNet aims to give computers access to common-sense knowledge, the kind of
 information that ordinary people know but usually leave unstated.
+ConceptNet的目的是给计算机推供访问常识知识的接口，这些常识人类往往很容易理解，但并没有进行标注，计算机无法理解。
 
 This Python package contains a toolset for building the ConceptNet 5 knowledge
 graph, possibly with your own custom data, and it serves the HTML interface and
